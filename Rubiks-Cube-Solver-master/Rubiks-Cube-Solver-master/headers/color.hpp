@@ -1,6 +1,4 @@
-//
-// Created by nathan on 05/02/16.
-//
+
 
 #ifndef RUBKIS_COLOR_H
 #define RUBKIS_COLOR_H
