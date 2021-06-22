@@ -1,6 +1,4 @@
-//
-// Created by nathan on 11/02/16.
-//
+
 
 #ifndef RUBKIS_SOLVER_H
 #define RUBKIS_SOLVER_H
