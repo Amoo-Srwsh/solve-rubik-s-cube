@@ -1,6 +1,4 @@
-//
-// Created by nathan on 05/02/16.
-//
+
 
 #include <iostream>
 #include "../headers/rCube.hpp"
