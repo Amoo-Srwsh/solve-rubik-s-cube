@@ -1,6 +1,4 @@
-//
-// Created by nathan on 24/02/16.
-//
+
 
 #ifndef RUBKIS_IMAGEPROCESSOR_HPP
 #define RUBKIS_IMAGEPROCESSOR_HPP
