@@ -1,6 +1,4 @@
-//
-// Created by nathan on 11/02/16.
-//
+
 
 #include <iostream>
 #include "../headers/solver.hpp"
