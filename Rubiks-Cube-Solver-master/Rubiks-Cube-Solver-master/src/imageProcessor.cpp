@@ -1,6 +1,4 @@
-//
-// Created by nathan on 24/02/16.
-//
+
 
 #include "../headers/imageProcessor.hpp"
 
